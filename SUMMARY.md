@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [Course overview](README.md)
+* [Course overview](course-overview.md)
 
