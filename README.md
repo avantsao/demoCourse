@@ -1,6 +1,4 @@
-# Automation skill set sharing
-
-This is the platform sharing the QT department's automation tasks skill/concept.
+# 
 
 ## 日期 :**From 6/29** {#ri-qi-from-629}
 
@@ -52,7 +50,7 @@ This is the platform sharing the QT department's automation tasks skill/concept.
 
 # 資源連結 -**這才是重點!!!** {#yuan-cai-shi-zhong}
 
-1. ​[Github](https://github.com/%E2%80%8B)
+1. ​[Github](https://github.com/​)
 
 2. ​[Git tool](https://git-scm.com/)
 
