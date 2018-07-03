@@ -12,3 +12,4 @@
 
 6. git pull = git fetch + git merge
 
+![](/assets/gitflow.png)
