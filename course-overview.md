@@ -2,7 +2,7 @@
 
 Internal coding skill and concept training platform
 
-##   {#ri-qi-from-629}
+##  {#ri-qi-from-629}
 
 ## 日期 :**From 6/29** {#ri-qi-from-629}
 
@@ -62,7 +62,12 @@ Internal coding skill and concept training platform
 
 4. 書目影片介紹
 
-   **高見龍 :**[為你自己學Git](https://gitbook.tw/)[Youtube - 高見龍-你知道 Git 是怎麼一回事嗎](https://www.youtube.com/watch?v=LgTf7m5B0xA&list=PL74O7cV12e9M9T3csyEbn_kwE4Wkaqwwu&t=0s&index=2)?[Youtube - 高見龍-五倍紅寶石 - Git 還原、分支詳解](https://www.youtube.com/watch?v=NxoexgNOvgQ&list=PL74O7cV12e9M9T3csyEbn_kwE4Wkaqwwu&t=2068s&index=3)**Will 保哥 :**[30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)​
+   **高見龍 :  
+   **[為你自己學Git](https://gitbook.tw/)  
+   [Youtube - 高見龍-你知道 Git 是怎麼一回事嗎](https://www.youtube.com/watch?v=LgTf7m5B0xA&list=PL74O7cV12e9M9T3csyEbn_kwE4Wkaqwwu&t=0s&index=2)?  
+   [Youtube - 高見龍-五倍紅寶石 - Git 還原、分支詳解](https://www.youtube.com/watch?v=NxoexgNOvgQ&list=PL74O7cV12e9M9T3csyEbn_kwE4Wkaqwwu&t=2068s&index=3)  
+   **Will 保哥 :  
+   **[30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)​
 
 ​
 
