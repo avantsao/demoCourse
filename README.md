@@ -1,13 +1,15 @@
-# Automation skill set sharing
+---
+description: >-
+  This is the platform sharing the QT department's automation tasks
+  skill/concept.
+---
 
-This is the platform sharing the QT department's automation tasks skill/concept.
+# Introduction
 
 | Date | Owner | History |
 | :--- | :--- | :--- |
 | 2018/06/29 | Avan | First release. |
 | 2018/07/03 | Avan | Update the template.Define basic version.Basic version under updating. |
-
-##  {#ri-qi-from-629}
 
 
 
